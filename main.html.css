@@ -1,0 +1,71 @@
+
+article {text-align:center;}
+
+h2 {text-align:center;}
+
+body html{
+    height: 100%
+}
+
+
+body {
+
+   background-color: rgb(255,255,230); 
+} 
+
+.aboutMe {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+
+
+.carousel-item>img{
+    height: 22em;
+    
+}
+
+
+img{
+    border-style: solid;
+    border-radius: 3em;
+    border-color: black;
+    
+}
+
+.formStyle{
+   
+    text-align: center;
+    background-color: #333333;
+    width: 40%;
+    min-width: 20em;
+    border-radius: 1em;
+    /* margin: auto; */
+}
+.contact{
+    text-align: center;
+    margin: .5em;
+    width: 40%;
+    min-width: 5em;
+    
+}
+
+.message{
+    text-align: center;
+    
+    width: 80%;
+}
+
+.formStyle h3{
+    color: gray;
+}
+
+.contactForm{
+    text-align: center;
+}
+.submit{
+    margin: .5em;
+    width: 10em;
+    border-radius: 1em;
+}
